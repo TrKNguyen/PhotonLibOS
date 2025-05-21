@@ -1,3 +1,0 @@
-repository='external project URL'
-module='https://github.com/google/googletest/archive/refs/tags/release-1.12.1.tar.gz'
-tag='MD5=e82199374acdfda3f425331028eb4e2a'

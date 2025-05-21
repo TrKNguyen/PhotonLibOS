@@ -1,3 +1,0 @@
-/home-local/tristan/PhotonLibOSTest/build/_deps/photon-subbuild/CMakeFiles/photon-populate.dir
-/home-local/tristan/PhotonLibOSTest/build/_deps/photon-subbuild/CMakeFiles/edit_cache.dir
-/home-local/tristan/PhotonLibOSTest/build/_deps/photon-subbuild/CMakeFiles/rebuild_cache.dir
