@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/axboe/liburing/archive/refs/tags/liburing-2.3.tar.gz'
+tag='MD5=2e8c3c23795415475654346484f5c4b8'

@@ -1,0 +1,702 @@
+[
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/alog.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/alog.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/alog.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/checksum/crc.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/checksum/crc.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/checksum/crc.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/estring.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/estring.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/estring.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/event-loop.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/event-loop.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/event-loop.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/executor/executor.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/executor/executor.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/executor/executor.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/expirecontainer.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/expirecontainer.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/expirecontainer.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/identity-pool.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/identity-pool.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/identity-pool.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/iovector.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/iovector.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/iovector.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/memory-stream/memory-stream.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/memory-stream/memory-stream.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/memory-stream/memory-stream.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/perf_counter.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/perf_counter.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/perf_counter.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/ring.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/ring.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/ring.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/stream.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/stream.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/stream.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/utility.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/utility.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/utility.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/uuid4.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/uuid4.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/uuid4.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/aligned-file.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/aligned-file.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/aligned-file.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/async_filesystem.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/async_filesystem.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/async_filesystem.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/exportfs.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/exportfs.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/exportfs.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/filecopy.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/filecopy.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/filecopy.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/httpfs/httpfs.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/httpfs/httpfs.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/httpfs/httpfs.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/httpfs/httpfs_v2.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/httpfs/httpfs_v2.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/httpfs/httpfs_v2.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/localfs.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/localfs.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/localfs.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/path.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/path.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/path.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/subfs.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/subfs.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/subfs.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/throttled-file.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/throttled-file.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/throttled-file.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/virtual-file.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/virtual-file.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/virtual-file.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/xfile.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/xfile.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/xfile.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/io/reset_handle.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/reset_handle.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/reset_handle.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/io/signal.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/signal.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/signal.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/basic_socket.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/basic_socket.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/basic_socket.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/curl.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/curl.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/curl.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/datagram_socket.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/datagram_socket.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/datagram_socket.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/http/body.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/body.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/body.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/http/client.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/client.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/client.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/http/cookie_jar.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/cookie_jar.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/cookie_jar.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/http/headers.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/headers.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/headers.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/http/message.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/message.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/message.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/http/server.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/server.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/server.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/http/status.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/status.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/status.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/http/url.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/url.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/url.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/iostream.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/iostream.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/iostream.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/kernel_socket.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/kernel_socket.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/kernel_socket.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/pooled_socket.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/pooled_socket.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/pooled_socket.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/security-context/tls-stream.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/security-context/tls-stream.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/security-context/tls-stream.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/utils.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/utils.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/utils.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/photon.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/photon.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/photon.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/rpc/out-of-order-execution.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/rpc/out-of-order-execution.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/rpc/out-of-order-execution.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/rpc/rpc.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/rpc/rpc.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/rpc/rpc.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/thread/arch.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/arch.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/arch.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/thread/st.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/st.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/st.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/thread/stack-allocator.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/stack-allocator.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/stack-allocator.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/thread/std-compat.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/std-compat.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/std-compat.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/thread/thread-key.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/thread-key.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/thread-key.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/thread/thread-pool.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/thread-pool.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/thread-pool.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/thread/thread.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/thread.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/thread.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/thread/workerpool.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/workerpool.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/workerpool.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/io/aio-wrapper.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/aio-wrapper.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/aio-wrapper.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/io/epoll.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/epoll.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/epoll.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/io/epoll-ng.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/epoll-ng.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/epoll-ng.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/cache/cache.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/cache.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/cache.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/cache/cached_fs.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/cached_fs.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/cached_fs.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/cache/full_file_cache/cache_pool.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/full_file_cache/cache_pool.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/full_file_cache/cache_pool.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/cache/full_file_cache/cache_store.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/full_file_cache/cache_store.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/full_file_cache/cache_store.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/cache/full_file_cache/quota_pool.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/full_file_cache/quota_pool.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/full_file_cache/quota_pool.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/cache/full_file_cache/quota_store.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/full_file_cache/quota_store.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/full_file_cache/quota_store.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/cache/persistent_cache/persistent_cache.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/persistent_cache/persistent_cache.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/persistent_cache/persistent_cache.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/cache/store.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/store.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/store.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DPHOTON_GLOBAL_INIT_OPENSSL -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/io/iouring-wrapper.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/iouring-wrapper.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/iouring-wrapper.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/ci-tools.dir/test/ci-tools.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/test/ci-tools.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/test/ci-tools.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/third_party",
+  "command": "/usr/bin/c++    -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/easy_weak.dir/easy_weak/easy_weak.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/third_party/easy_weak/easy_weak.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/third_party/easy_weak/easy_weak.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/third_party",
+  "command": "/usr/bin/c++    -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIC -std=c++14 -o CMakeFiles/fstack_weak.dir/fstack_weak/fstack_weak.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/third_party/fstack_weak/fstack_weak.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/third_party/fstack_weak/fstack_weak.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/examples",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/simple-example.dir/simple/simple.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/simple/simple.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/simple/simple.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/examples",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/net-perf.dir/perf/net-perf.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/perf/net-perf.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/perf/net-perf.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/examples",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/workpool-perf.dir/perf/workpool-perf.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/perf/workpool-perf.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/perf/workpool-perf.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/examples",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/io-perf.dir/perf/io-perf.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/perf/io-perf.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/perf/io-perf.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/examples",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/multi-conn-perf.dir/perf/multi-conn-perf.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/perf/multi-conn-perf.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/perf/multi-conn-perf.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/examples",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/rpc-example-client.dir/rpc/client.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/rpc/client.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/rpc/client.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/examples",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/rpc-example-client.dir/rpc/client_main.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/rpc/client_main.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/rpc/client_main.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/examples",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/rpc-example-server.dir/rpc/server.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/rpc/server.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/rpc/server.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/examples",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/rpc-example-server.dir/rpc/server_main.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/rpc/server_main.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/rpc/server_main.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/examples",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/sync-primitive.dir/sync-primitive/sync-primitive.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/sync-primitive/sync-primitive.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/examples/sync-primitive/sync-primitive.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/common/checksum/test",
+  "command": "/usr/bin/c++ -DDATA_DIR=/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/checksum/test/ -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-checksum.dir/test_checksum.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/checksum/test/test_checksum.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/checksum/test/test_checksum.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/common/test",
+  "command": "/usr/bin/c++ -DDATA_DIR=/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/ -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-objcache.dir/test_objcache.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/test_objcache.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/test_objcache.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/common/test",
+  "command": "/usr/bin/c++ -DDATA_DIR=/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/ -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/perf-objcache.dir/perf_objcache.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/perf_objcache.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/perf_objcache.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/common/test",
+  "command": "/usr/bin/c++ -DDATA_DIR=/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/ -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-common.dir/test.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/test.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/test.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/common/test",
+  "command": "/usr/bin/c++ -DDATA_DIR=/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/ -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-scalepool.dir/test_scalepool.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/test_scalepool.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/test_scalepool.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/common/test",
+  "command": "/usr/bin/c++ -DDATA_DIR=/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/ -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-throttle.dir/test_throttle.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/test_throttle.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/test_throttle.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/common/test",
+  "command": "/usr/bin/c++ -DDATA_DIR=/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/ -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-constexprstr.dir/test_constexprstr.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/test_constexprstr.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/test_constexprstr.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/common/test",
+  "command": "/usr/bin/c++ -DDATA_DIR=/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/ -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-lockfree.dir/test_lockfree.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/test_lockfree.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/test_lockfree.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/common/test",
+  "command": "/usr/bin/c++ -DDATA_DIR=/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/ -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-alog.dir/test_alog.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/test_alog.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/test_alog.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/common/test",
+  "command": "/usr/bin/c++ -DDATA_DIR=/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/ -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-alog.dir/x.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/x.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/x.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/common/test",
+  "command": "/usr/bin/c++ -DDATA_DIR=/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/ -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/perf-rcuptr.dir/perf_rcuptr.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/perf_rcuptr.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/test/perf_rcuptr.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/common/memory-stream/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE   -w -std=c++14 -o CMakeFiles/test-memory-stream.dir/test.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/memory-stream/test/test.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/memory-stream/test/test.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/common/executor/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE   -w -std=c++14 -o CMakeFiles/test-executor-async.dir/test_async.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/executor/test/test_async.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/executor/test/test_async.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/common/executor/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE   -w -std=c++14 -o CMakeFiles/test-executor-export_as_executor.dir/test_export_as_executor.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/executor/test/test_export_as_executor.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/executor/test/test_export_as_executor.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/common/executor/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE   -w -std=c++14 -o CMakeFiles/test-executor-std.dir/test_std.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/executor/test/test_std.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/common/executor/test/test_std.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/fs/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-fs.dir/test.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/test/test.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/test/test.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/fs/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-exportfs.dir/test_exportfs.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/test/test_exportfs.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/test/test_exportfs.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/fs/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-filecopy.dir/test_filecopy.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/test/test_filecopy.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/test/test_filecopy.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/fs/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-throttle-file.dir/test_throttledfile.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/test/test_throttledfile.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/fs/test/test_throttledfile.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/io/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/signalfdtest.dir/signalfdtest.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/test/signalfdtest.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/test/signalfdtest.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/io/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/signalfdboom.dir/signalfdboom.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/test/signalfdboom.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/test/signalfdboom.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/io/test",
+  "command": "/usr/bin/c++ -DPHOTON_URING=on -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-fork.dir/test-fork.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/test/test-fork.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/test/test-fork.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/io/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-syncio.dir/test-syncio.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/test/test-syncio.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/test/test-syncio.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/io/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-iouring.dir/test-iouring.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/test/test-iouring.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/io/test/test-iouring.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/net/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-socket.dir/test.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/test/test.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/test/test.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/net/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-dg-socket.dir/test-udp.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/test/test-udp.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/test/test-udp.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/net/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-sockpool.dir/test_sockpool.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/test/test_sockpool.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/test/test_sockpool.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/net/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-curl.dir/test_curl.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/test/test_curl.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/test/test_curl.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/net/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-server.dir/test-server.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/test/test-server.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/test/test-server.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/net/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-client.dir/test-client.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/test/test-client.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/test/test-client.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/net/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-ipv6.dir/test-ipv6.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/test/test-ipv6.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/test/test-ipv6.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/net/http/test",
+  "command": "/usr/bin/c++ -DENABLE_CURL -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/client_perf.dir/client_perf.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/test/client_perf.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/test/client_perf.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/net/http/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/server_perf.dir/server_perf.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/test/server_perf.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/test/server_perf.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/net/http/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/client_function_test.dir/client_function_test.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/test/client_function_test.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/test/client_function_test.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/net/http/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/server_function_test.dir/server_function_test.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/test/server_function_test.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/test/server_function_test.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/net/http/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/cookie_jar_test.dir/cookie_jar_test.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/test/cookie_jar_test.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/test/cookie_jar_test.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/net/http/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/headers_test.dir/headers_test.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/test/headers_test.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/test/headers_test.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/net/http/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/client_tls_test.dir/client_tls_test.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/test/client_tls_test.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/http/test/client_tls_test.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/rpc/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-rpc.dir/test.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/rpc/test/test.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/rpc/test/test.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/rpc/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-ooo.dir/test-ooo.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/rpc/test/test-ooo.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/rpc/test/test-ooo.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/rpc/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-rpc-message.dir/test-rpc-message.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/rpc/test/test-rpc-message.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/rpc/test/test-rpc-message.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/thread/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/perf_usleepdefer_semaphore.dir/perf_usleepdefer_semaphore.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/perf_usleepdefer_semaphore.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/perf_usleepdefer_semaphore.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/thread/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/perf_workpool.dir/perf_workpool.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/perf_workpool.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/perf_workpool.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/thread/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-thread.dir/test.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/thread/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-thread.dir/x.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/x.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/x.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/thread/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-pool.dir/test-pool.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-pool.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-pool.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/thread/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-pool.dir/x.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/x.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/x.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/thread/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-std-compat.dir/test-std-compat.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-std-compat.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-std-compat.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/thread/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-specific-key.dir/test-specific-key.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-specific-key.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-specific-key.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/thread/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-thread-local.dir/test-thread-local.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-thread-local.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-thread-local.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/thread/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-tls-order-native.dir/test-tls-order-native.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-tls-order-native.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-tls-order-native.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/thread/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-tls-order-photon.dir/test-tls-order-photon.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-tls-order-photon.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-tls-order-photon.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/thread/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-lib-data.dir/test-lib-data.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-lib-data.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-lib-data.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/thread/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-multi-vcpu-locking.dir/test-multi-vcpu-locking.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-multi-vcpu-locking.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-multi-vcpu-locking.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/thread/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-pooled-stack-allocator.dir/test-pooled-stack-allocator.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-pooled-stack-allocator.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/test-pooled-stack-allocator.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/thread/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-st-utest.dir/st_utest.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/st_utest.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/st_utest.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/thread/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-st-utest.dir/st_utest_tcp.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/st_utest_tcp.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/st_utest_tcp.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/thread/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-st-utest.dir/st_utest_coroutines.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/st_utest_coroutines.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/thread/test/st_utest_coroutines.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/net/security-context/test",
+  "command": "/usr/bin/c++  -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/test-tls.dir/test.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/security-context/test/test.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/net/security-context/test/test.cpp"
+},
+{
+  "directory": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/cache/test",
+  "command": "/usr/bin/c++  -I/include -I/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/gflags-prefix/src/gflags-build/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googletest/include -I/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest/googlemock/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -g -fPIE -std=c++14 -o CMakeFiles/cache_test.dir/cache_test.cpp.o -c /home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/test/cache_test.cpp",
+  "file": "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-src/cache/test/cache_test.cpp"
+}
+]

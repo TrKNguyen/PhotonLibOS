@@ -1,0 +1,12 @@
+# Target labels
+ aio
+# Source files and their labels
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/aio
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/aio.rule
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/aio-complete.rule
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-prefix/src/aio-stamp/aio-build.rule
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-prefix/src/aio-stamp/aio-configure.rule
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-prefix/src/aio-stamp/aio-download.rule
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-prefix/src/aio-stamp/aio-install.rule
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-prefix/src/aio-stamp/aio-mkdir.rule
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-prefix/src/aio-stamp/aio-patch.rule

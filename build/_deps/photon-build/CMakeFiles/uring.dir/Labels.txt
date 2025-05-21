@@ -1,0 +1,12 @@
+# Target labels
+ uring
+# Source files and their labels
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/uring
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/uring.rule
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/uring-complete.rule
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-prefix/src/uring-stamp/uring-build.rule
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-prefix/src/uring-stamp/uring-configure.rule
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-prefix/src/uring-stamp/uring-download.rule
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-prefix/src/uring-stamp/uring-install.rule
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-prefix/src/uring-stamp/uring-mkdir.rule
+/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-prefix/src/uring-stamp/uring-patch.rule

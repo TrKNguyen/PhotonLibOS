@@ -1,0 +1,1 @@
+cmd='sh;-c;CFLAGS="-fPIC -O3" ./configure --prefix=/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-build --static'

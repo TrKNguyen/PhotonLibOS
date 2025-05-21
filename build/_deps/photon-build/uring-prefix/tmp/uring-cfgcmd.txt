@@ -1,0 +1,1 @@
+cmd='./configure;--prefix=/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-build'

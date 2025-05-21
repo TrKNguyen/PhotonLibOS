@@ -1,0 +1,40 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/zlib"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/zlib.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/zlib-complete.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-prefix/src/zlib-stamp/zlib-build.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-prefix/src/zlib-stamp/zlib-configure.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-prefix/src/zlib-stamp/zlib-download.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-prefix/src/zlib-stamp/zlib-install.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-prefix/src/zlib-stamp/zlib-mkdir.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/zlib-prefix/src/zlib-stamp/zlib-patch.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"zlib"
+		],
+		"name" : "zlib"
+	}
+}

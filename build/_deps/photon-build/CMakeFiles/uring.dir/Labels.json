@@ -1,0 +1,40 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/uring"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/uring.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/uring-complete.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-prefix/src/uring-stamp/uring-build.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-prefix/src/uring-stamp/uring-configure.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-prefix/src/uring-stamp/uring-download.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-prefix/src/uring-stamp/uring-install.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-prefix/src/uring-stamp/uring-mkdir.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/uring-prefix/src/uring-stamp/uring-patch.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"uring"
+		],
+		"name" : "uring"
+	}
+}

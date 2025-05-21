@@ -1,0 +1,40 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/aio"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/aio.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/aio-complete.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-prefix/src/aio-stamp/aio-build.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-prefix/src/aio-stamp/aio-configure.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-prefix/src/aio-stamp/aio-download.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-prefix/src/aio-stamp/aio-install.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-prefix/src/aio-stamp/aio-mkdir.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/aio-prefix/src/aio-stamp/aio-patch.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"aio"
+		],
+		"name" : "aio"
+	}
+}

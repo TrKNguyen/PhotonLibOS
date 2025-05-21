@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-subbuild/CMakeFiles/photon-populate"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-subbuild/CMakeFiles/photon-populate.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-subbuild/CMakeFiles/photon-populate-complete.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-subbuild/photon-populate-prefix/src/photon-populate-stamp/photon-populate-build.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-subbuild/photon-populate-prefix/src/photon-populate-stamp/photon-populate-configure.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-subbuild/photon-populate-prefix/src/photon-populate-stamp/photon-populate-download.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-subbuild/photon-populate-prefix/src/photon-populate-stamp/photon-populate-install.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-subbuild/photon-populate-prefix/src/photon-populate-stamp/photon-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-subbuild/photon-populate-prefix/src/photon-populate-stamp/photon-populate-patch.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-subbuild/photon-populate-prefix/src/photon-populate-stamp/photon-populate-test.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-subbuild/photon-populate-prefix/src/photon-populate-stamp/photon-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"photon-populate"
+		],
+		"name" : "photon-populate"
+	}
+}

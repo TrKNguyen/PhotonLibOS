@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/googletest"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/googletest.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/CMakeFiles/googletest-complete.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest-stamp/googletest-build.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest-stamp/googletest-configure.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest-stamp/googletest-download.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest-stamp/googletest-install.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest-stamp/googletest-patch.rule"
+		},
+		{
+			"file" : "/home-local/tristan/PhotonLibOSTest/build/_deps/photon-build/googletest-prefix/src/googletest-stamp/googletest-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest"
+		],
+		"name" : "googletest"
+	}
+}
