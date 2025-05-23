@@ -32,3 +32,9 @@ target_link_libraries(main_tls photon_static)
 
 add_executable(client_tls client_tls.cpp)
 target_link_libraries(client_tls photon_static)
+
+add_executable(client_tls_2_thread client_tls_2_thread.cpp)
+target_link_libraries(client_tls_2_thread photon_static)
+
+add_executable(client_tls_1_thread_multiple_socket client_tls_1_thread_multiple_socket.cpp)
+target_link_libraries(client_tls_1_thread_multiple_socket photon_static)
